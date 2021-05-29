@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4709991b04b3f354f98ba8773e82504e, type: 3}
+  m_Name: Squirtle
+  m_EditorClassIdentifier: 
+  itemType: 0
+  icon: {fileID: 21300000, guid: 6476c8208d4ac3b42bc9d93fa6bbbd1a, type: 3}
+  name: Squirtle
+  type: Agua
+  hpA: 15
+  hp: 14
+  attack: 13
+  defense: 10
+  special: 5
+  special_attack: 6
+  special_defense: 4
+  speed: 9
+  level: 1
+  xp: 3
+  pokemon: {fileID: 919132149155446097, guid: 0cf3aab2d49d7804aae38eb734bbd82a, type: 3}
